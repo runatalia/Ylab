@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a0f5780-f21e-462d-a9fa-8ba4b1b617d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ylab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbersImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/RateLimitedPrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/RateLimitedPrinterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/Sequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SequencesImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SequencesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidatorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbersImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/RateLimitedPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/RateLimitedPrinterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/Sequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/SequencesImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/SequencesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulatorTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="2a0f5780-f21e-462d-a9fa-8ba4b1b617d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
