@@ -5,13 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a0f5780-f21e-462d-a9fa-8ba4b1b617d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/internship/SequencesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/internship/SequencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ylab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/internship/Tasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/internship/Tasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbersImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/ComplexNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/RateLimitedPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/RateLimitedPrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/Sequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SequencesImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SequencesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/SnilsValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbersImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/ComplexNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/RateLimitedPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/RateLimitedPrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/SequencesImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/SequencesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/SnilsValidatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/internship/StatsAccumulatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +76,22 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/БЭГ/Documents/NetBeansProjects/YlabIInternship&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/БЭГ/Documents/NetBeansProjects/leetcodeAlgorithms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;XML&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\БЭГ\Documents\NetBeansProjects\YlabIInternship\src\main\resources" />
+      <recent name="C:\Users\БЭГ\Documents\NetBeansProjects\YlabIInternship\src\main" />
       <recent name="C:\Users\БЭГ\Documents\NetBeansProjects\YlabIInternship\.idea" />
       <recent name="C:\Users\БЭГ\Documents\NetBeansProjects\YlabIInternship\src" />
       <recent name="C:\Users\БЭГ\Documents\NetBeansProjects\YlabIInternship\src\main\java" />
@@ -62,13 +100,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SequencesTest">
-    <configuration name="ComplexNumbersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internship.ComplexNumbersTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DefaultClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="internship.fileSort.DefaultClass" />
       <module name="Ylab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internship.*" />
+          <option name="PATTERN" value="internship.fileSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RateLimitedPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internship.RateLimitedPrinterTest" />
+    <configuration name="DefaultClass (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="internship.fileSort.DefaultClass" />
       <module name="Ylab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internship.*" />
+          <option name="PATTERN" value="internship.fileSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequencesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internship.SequencesTest" />
+    <configuration name="DefaultClass (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="internship.fileSort.DefaultClass" />
       <module name="Ylab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internship.*" />
+          <option name="PATTERN" value="internship.fileSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnilsValidatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internship.SnilsValidatorTest" />
+    <configuration name="DefaultClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="internship.fileSort.DefaultClass" />
       <module name="Ylab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internship.*" />
+          <option name="PATTERN" value="internship.fileSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatsAccumulatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internship.StatsAccumulatorTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="internship.fileSort.Test" />
       <module name="Ylab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internship.*" />
+          <option name="PATTERN" value="internship.fileSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SequencesTest" />
-        <item itemvalue="Application.RateLimitedPrinterTest" />
-        <item itemvalue="Application.StatsAccumulatorTest" />
-        <item itemvalue="Application.SnilsValidatorTest" />
-        <item itemvalue="Application.ComplexNumbersTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.DefaultClass (1)" />
+        <item itemvalue="Application.DefaultClass" />
+        <item itemvalue="Application.DefaultClass (5)" />
+        <item itemvalue="Application.DefaultClass (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,19 +191,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/internship/SnilsValidatorImpl.java</url>
+          <url>file://$PROJECT_DIR$/../leetcodeAlgorithms/src/main/java/snilsValidator/SnilsValidatorImpl.java</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorImpl.java</url>
+          <url>file://$PROJECT_DIR$/../leetcodeAlgorithms/src/main/java/statsAccumulator/StatsAccumulatorImpl.java</url>
           <line>38</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/internship/StatsAccumulatorImpl.java</url>
+          <url>file://$PROJECT_DIR$/../leetcodeAlgorithms/src/main/java/statsAccumulator/StatsAccumulatorImpl.java</url>
           <line>40</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/internship/fileSort/Validator.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
