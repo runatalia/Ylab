@@ -16,7 +16,7 @@ public class OrgStructureParserImpl implements OrgStructureParser {
       String line;
       String [] readArray;
       reader.readLine();
-      while (!(line = reader.readLine()).isEmpty()) {
+       while ((line = reader.readLine())!=null) {
         readArray = line.split(";");
         setValuesInEmployee(readArray);
       }
